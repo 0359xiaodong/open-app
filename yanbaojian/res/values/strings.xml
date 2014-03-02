@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">眼保健操</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="action_start">开始</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_stop">停止</string>
+    
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+    
+    <string name="title_1">第一节:按揉攒竹穴</string>
+    <string name="title_2">第二节:按压睛明穴</string>
+    <string name="title_3">第三节:按揉四白穴</string>
+    <string name="title_4">第四节:按揉太阳穴 刮上眼眶</string>
+    <string name="title_5">第五节:按揉风池穴</string>
+    <string name="title_6">第六节:揉捏耳垂 脚趾抓地</string>
+    
+    <string name="one">用双手大拇指螺纹面分别按在两侧穴位上，其余手指自然放松，指尖抵在前额上。随音乐口令有节奏地按揉穴位，每拍一圈，做四个八拍。</string>
+	<string name="two">用双手食指螺纹面分别按在两侧穴位上，其余手指自然放松、握起，呈空心拳状。随音乐口令有节奏地上下按压穴位，每拍一次，做四个八拍。</string>
+	<string name="three">用双手食指螺纹面分别按在两侧穴位上，大拇指抵在下颌凹陷处，其余手指自然放松、握起，呈空心拳状。随音乐口令有节奏地按揉穴位，每拍一圈，做四个八拍。</string>
+	<string name="four">用双手大拇指的螺纹面分别按在两侧太阳穴上，其余手指自然放松，弯曲。伴随音乐口令，先用大拇指按揉太阳穴，每拍一圈，揉四圈。然后，大拇指不动，用双手食指的第二个关节内侧，稍加用力从眉头刮至眉梢，两个节拍刮一次，连刮两次。如此交替，做四个八拍。</string>
+	<string name="five">用双手食指和中指的螺纹面分别按在两侧穴位上，其余三指自然放松。随音乐口令有节奏地按揉穴位，每拍一圈，做四个八拍。</string>
+	<string name="six">用双手大拇指和食指的螺纹面捏住耳垂正中的眼穴，其余三指自然并拢弯曲。伴随音乐口令，用大拇指和食指有节奏地揉捏穴位，同时用双脚全部脚趾做抓地运动，每拍一次，做四个八拍。</string>
+</resources>

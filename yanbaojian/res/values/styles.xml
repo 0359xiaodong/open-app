@@ -1,0 +1,28 @@
+<resources>
+    <!-- Activity themes -->
+    <style name="Theme.Base" parent="android:Theme.Holo.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+    
+    
+    <style name="Theme.AppActionbar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/Widget.App.ActionBar</item>
+        <item name="actionBarStyle">@style/Widget.App.ActionBar</item>
+    </style>
+    
+    <style name="Widget.App.ActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@drawable/abc_title_background</item>
+        <item name="android:titleTextStyle">@style/Widget.TitleTextStyle</item>
+        
+        <item name="background">@drawable/abc_title_background</item>
+        <item name="titleTextStyle">@style/Widget.TitleTextStyle</item>
+    </style>
+    
+    <style name="Widget.TitleTextStyle" parent="@style/Theme.AppCompat">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@null</item>
+    </style>
+
+</resources>
